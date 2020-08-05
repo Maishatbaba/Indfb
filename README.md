@@ -16,3 +16,4 @@ pip2 install requests
 pip2 install mechanize
 cd Indfb
 python2 AM
+Password 420
